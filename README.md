@@ -11,7 +11,6 @@ selects the best attribute to split the data based on information gain and entro
 Files:
 
 decision_tree.py: Contains the main implementation of the decision tree classifier.
-
 mass_towns_2022.csv: Sample CSV file containing the dataset for testing the decision tree.
 
 README.md: This file, providing an overview of the project.
